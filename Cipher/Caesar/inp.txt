@@ -1,0 +1,43 @@
+In 1938, the American architect Alfred Mosher Butts created the game as a variation on an earlier word game he invented, called Lexiko. The two games had the same set of letter tiles, whose distributions and point values Butts worked out by performing a frequency analysis of letters from various sources, including The New York Times. The new game, which he called Criss-Crosswords, added the 15×15 gameboard and the crossword-style gameplay. He manufactured a few sets himself but was not successful in selling the game to any major game manufacturers of the day.[9]:98
+
+In 1948, James Brunot,[10] a resident of Newtown, Connecticut and one of the few owners of the original Criss-Crosswords game, bought the rights to manufacture the game in exchange for granting Butts a royalty on every unit sold. Although he left most of the game (including the distribution of letters) unchanged, Brunot slightly rearranged the "premium" squares of the board and simplified the rules; he also renamed the game Scrabble, a real word which means "to scratch frantically".[9]:100 In 1949, Brunot and his family made sets in a converted former schoolhouse in Dodgingtown, Connecticut, a section of Newtown. They made 2,400 sets that year but lost money.[11] According to legend, Scrabble's big break came in 1952 when Jack Straus, president of Macy's, played the game on vacation. Upon returning from vacation, he was surprised to find that his store did not carry the game. He placed a large order, and within a year, "everyone had to have one."[9]:101
+
+In 1952, unable to meet demand himself, Brunot sold manufacturing rights to Long Island-based Selchow and Righter, one of the manufacturers who, like Parker Brothers and Milton Bradley Company, had previously rejected the game. In its second year as a Selchow and Righter-built product, nearly four million sets were sold.[12][9]:104
+
+Selchow and Righter bought the trademark to the game in 1972.[13] JW Spear began selling the game in Australia and the UK on January 19, 1955. The company is now a subsidiary of Mattel.[9] In 1986, Selchow and Righter was sold to Coleco, which soon afterward went bankrupt. Hasbro purchased the company's assets, including Scrabble and Parcheesi.[13]
+
+In 1984, Scrabble was turned into a daytime game show on NBC. The Scrabble game show ran from July 1984 to March 1990,[14] with a second run from January to June 1993. The show was hosted by Chuck Woolery. Its tagline in promotional broadcasts was, "Every man dies; not every man truly Scrabbles."[15] In 2011, a new TV variation of Scrabble, called Scrabble Showdown, aired on The Hub cable channel, which is a joint venture of Discovery Communications, Inc. and Hasbro.
+
+Scrabble was inducted into the National Toy Hall of Fame in 2004.[16]
+
+Evolution of the rules[edit]
+The "box rules" included in each copy of the North American edition have been edited four times: in 1953, 1976, 1989, and 1999.[17]
+
+The major changes in 1953 were as follows:
+
+It was made clear that:
+words could be played through single letters already on the board.
+a player could play a word parallel and immediately adjacent to an existing word provided all crossing words formed were valid.
+the effect of two premium squares were to be compounded multiplicatively.
+The previously unspecified penalty for having one's play successfully challenged was stated: withdrawal of tiles and loss of turn.
+The major changes in 1976 were as follows:
+
+It was made clear that the blank tile beats an A when drawing to see who goes first.
+A player could pass his/her turn, doing nothing.
+A loss-of-turn penalty was added for challenging an acceptable play.
+If final scores are tied, the player whose score was highest before adjusting for unplayed tiles is the winner;[18] in tournament play, a tie is counted as half a win for both players.[19]
+The editorial changes made in 1989 did not affect gameplay.[citation needed]
+
+The major changes in 1999 were as follows:
+
+It was made clear that:
+a tile can be shifted or replaced until the play has been scored.
+a challenge applies to all the words made in the given play.
+Playing all seven tiles is officially called a "bingo" in North America and a "bonus" elsewhere.
+A change in the wording of the rules could have been interpreted as meaning that a player may form more than one word on one row on a single turn.
+Rules[edit]
+Notation system[edit]
+In the notation system common in tournament play, columns are labeled with the letters "A–O" and rows with the numbers "1–15". (On Scrabble boards manufactured by Mattel as well as on the Internet Scrabble Club, rows are lettered while columns are numbered instead.) A play is usually identified in the format xy WORD score or WORD xy score, where x denotes the column or row on which the play's main word extends, y denotes the second coordinate of the main word's first letter, and WORD is the main word. Although it is unnecessary, additional words formed by the play are sometimes listed after the main word and a slash. When the play of a single tile forms words in each direction, one of the words is arbitrarily chosen to serve as the main word for purposes of notation.
+
+When a blank tile is employed in the main word, the letter it has been chosen to represent is indicated with a lower case letter, or, in handwritten notation, with a square around the letter. When annotating a play, previously existing letters on the board are usually enclosed in parentheses.
+
